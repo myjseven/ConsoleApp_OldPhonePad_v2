@@ -17,7 +17,7 @@ namespace ConsoleApp_OldPhonePad_v2.Classes
         {
             var numberKeyMap = new Dictionary<int, string[]>
             {
-                { 1, new[] { "&", "'", "C" } },
+                { 1, new[] { "&", "'", "(" } },
                 { 2, new[] { "A", "B", "C" } },
                 { 3, new[] { "D", "E", "F" } },
                 { 4, new[] { "G", "H", "I" } },
