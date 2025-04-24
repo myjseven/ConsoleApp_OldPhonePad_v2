@@ -48,7 +48,11 @@ ConsoleApp_OldPhonePad_v2.Tests/
 - Input: `"4433555 555666#"`, Expected Output: `"HELLO"`
 - Input: `"227#"`, Expected Output: `"AB"`
 - Input: `"44*33#"`, Expected Output: `"E"`
-
+- Input: `"8 88777444666*664#"`, Expected Output: `"TURING"`
+- Input: `"222 2 22#"`, Expected Output: `"CAB"`
+- Input: `"77777777777777 7#"`, Expected Output: `"QP"`
+- Input: `"7777 33 888 33 66#"`, Expected Output: `"SEVEN"`
+- Input: `"1 111#"`, Expected Output: `"&("`
 ---
 
 ## Requirements
@@ -58,7 +62,7 @@ ConsoleApp_OldPhonePad_v2.Tests/
 
 ---
 
-## 🔧 Build and Run Instructions
+## Build and Run Instructions
 
 1. **Clone the Repository**:
 
